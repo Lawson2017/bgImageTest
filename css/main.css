@@ -31,12 +31,13 @@ body {
 	color: hsl(60, 9%, 85%);
 }
 
-li.annihilation a{
-	margin-right: 70px;
+.annihilation a{
+	margin-right: 880px;
 	list-style-type: none;
 	display: inline-block;
 	color: hsl(60, 9%, 85%);
 	text-decoration: none;
+	float: left;
 
 }
 
@@ -63,17 +64,3 @@ li.annihilation a{
 	font-weight: bold;
 	color: hsl(103, 43%, 58%);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
