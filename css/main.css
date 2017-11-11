@@ -1,0 +1,79 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url("../img/annihilation.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navigation {
+	background-color: hsl(224, 4%, 24%);
+	height: 60px;
+	margin-top: 0;
+}
+
+.navigation ul {
+	list-style-type: none;
+	text-align: right;
+    font-size: 14px;
+    font-weight: bold;
+	padding: 15px 35px 15px 15px;
+}	
+
+.navigation li{
+	list-style-type: none;
+	display: inline-block;
+	margin:0px 10px 0px 10px;
+	font-size: 1.1em;
+	color: hsl(60, 9%, 85%);
+}
+
+li.annihilation a{
+	margin-right: 70px;
+	list-style-type: none;
+	display: inline-block;
+	color: hsl(60, 9%, 85%);
+	text-decoration: none;
+
+}
+
+
+.fa {
+	color: white;
+}
+
+.main {
+	margin-top: 80px;
+}
+
+.main h1 {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: bold;
+	font-size: 55px;
+	color: hsl(103, 43%, 58%);
+} 
+
+.main h3 {
+	text-align: center;
+	font-family: 'Cinzel', serif;
+	font-weight: bold;
+	color: hsl(103, 43%, 58%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
