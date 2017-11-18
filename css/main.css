@@ -1,10 +1,9 @@
-* {
+* {	
 	margin: 0;
-	padding: 0
+	padding: 0;
 }
 
 body {
-	background-image: url("../img/annihilation.jpg");
 	background-size: cover;
     background-repeat: no-repeat;
 }
@@ -16,7 +15,8 @@ body {
 }
 
 .navigation ul {
-	text-align: right;
+	text-align: center;
+	list-style-type: none;
     font-size: 14px;
     font-weight: bold;
 	padding: 15px 35px 15px 15px;
@@ -30,15 +30,14 @@ body {
 	color: hsl(60, 9%, 85%);
 }
 
-.annihilation a{
-	margin-right: 880px;
+li.annihilation a{
 	list-style-type: none;
 	display: inline-block;
 	color: hsl(60, 9%, 85%);
 	text-decoration: none;
-	float: left;
 
 }
+
 
 .fa {
 	color: white;
@@ -63,31 +62,28 @@ body {
 	color: hsl(103, 43%, 58%);
 }
 
-.footer {
-	height: 60px;
-	background-color: hsl(224, 4%, 24%);
-	text-align: right;
-	position:absolute;
-	bottom:0;
-	width:100%;
-	height:60px; 
-}
-
-.footer li {	
-	list-style-type: none;
-	text-decoration: none;
-	margin: 10px 0px 10px 0px;
-	display: inline-block;
-	text-align: right;
-	margin-right: 30px;
-}	
-
-.footer a {
-	display: inline-block;
-	text-decoration: none;
-	margin: 10px 0px 10px 0px;
-	color: hsl(60, 9%, 85%);
 
 
 
-}
+
+
+
+
+
+
+
+
+
+
+© 2017 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
